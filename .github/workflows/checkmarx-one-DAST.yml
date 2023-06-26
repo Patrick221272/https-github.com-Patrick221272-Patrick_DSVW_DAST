@@ -31,7 +31,7 @@ jobs:
         CX_APIKEY: eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJhODZiNjEzNC0xZGMwLTRjMjktODIyYi0zZDhhYmRjYzg1NTYifQ.eyJpYXQiOjE2ODc3ODYxMTUsImp0aSI6Ijc4MmNkNDdlLTFmZTctNDc3NC04NzQ5LTY0NzVhZTk0ZTQ3NiIsImlzcyI6Imh0dHBzOi8vZGV1LmlhbS5jaGVja21hcngubmV0L2F1dGgvcmVhbG1zL2NoZWNrbWFyeC1nbG9iYWwtc2VydmljZXMtaW50ZXJuYWwiLCJhdWQiOiJodHRwczovL2RldS5pYW0uY2hlY2ttYXJ4Lm5ldC9hdXRoL3JlYWxtcy9jaGVja21hcngtZ2xvYmFsLXNlcnZpY2VzLWludGVybmFsIiwic3ViIjoiNTlmMzgyNTEtMzMzNy00MDY4LWFlYmYtOGJlZTBlNzk5YTZhIiwidHlwIjoiT2ZmbGluZSIsImF6cCI6ImFzdC1hcHAiLCJzZXNzaW9uX3N0YXRlIjoiMzgyNzdmYzktZDhmYi00YzgwLTg4M2UtODZjYTY0NWVmOWVmIiwic2NvcGUiOiIgb2ZmbGluZV9hY2Nlc3MiLCJzaWQiOiIzODI3N2ZjOS1kOGZiLTRjODAtODgzZS04NmNhNjQ1ZWY5ZWYifQ.a5pLEfVVQ861G8ufqF4tM4pf4aJokraAHUXzz_2Y6uM
       with:
         command: "web"
-        config: 'C:\SE Folder\DAST\DEMO\gin_juice.yaml'
+        config: 'C:\SE/ Folder\DAST\DEMO\gin_juice.yaml'
         base_url: "deu.ast.checkmarx.net"
         environment_id: "6960daf0-b44f-41de-bd5e-7461110fd4b4"
         fail_on: "HIGH"
