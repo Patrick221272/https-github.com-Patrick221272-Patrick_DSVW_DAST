@@ -33,7 +33,7 @@ jobs:
         command: "web"
         config: 'zap_config.yaml'
         base_url: "deu.ast.checkmarx.net"
-        environment_id: "3b4a83b1-edd4-4f9a-8a19-f8b4cb1b01bf"
+        environment_id: "6960daf0-b44f-41de-bd5e-7461110fd4b4"
         fail_on: "HIGH"
         verbose: true
     - uses: actions/upload-artifact@v3
