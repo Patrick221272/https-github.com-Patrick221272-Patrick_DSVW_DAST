@@ -32,8 +32,8 @@ env:
             password: "hunter2"
             username: "carlos"
   parameters:
-    failOnError: true
-    failOnWarning: false
+  #  failOnError: true
+  #  failOnWarning: false
     progressToStdout: true
   vars: {}
 jobs:
